@@ -15,4 +15,4 @@ Short description: what the program does and who it is for.
 2. Paste the code from main.cpp and click Run.
 
 ## Author
-Your name, group
+Akylbek, Software 1-25
