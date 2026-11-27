@@ -1,4 +1,4 @@
-# grade-calculator.
+# Grade Calculator v1.0
 Short description: what the program does and who it is for.
 
 ## Requirements
