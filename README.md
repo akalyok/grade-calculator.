@@ -1,4 +1,4 @@
-# Grade Calculator v1.0
+# Student Grade Calculator
 Short description: what the program does and who it is for.
 
 ## Requirements
