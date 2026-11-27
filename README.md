@@ -1,4 +1,7 @@
+feature/readme-update
 # Grade Calculator v1.0
+# Student Grade Calculator
+main
 Short description: what the program does and who it is for.
 
 ## Requirements
